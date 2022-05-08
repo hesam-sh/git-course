@@ -12,5 +12,7 @@
 
 // git commit -m""
 
+// git log
+
 console.log("Hello World!");
 alert("hi...")
