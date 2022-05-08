@@ -14,5 +14,7 @@
 
 // git log
 
+// git add .
+
 console.log("Hello World!");
 alert("hi...")
