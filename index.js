@@ -10,5 +10,7 @@
 
 // ls
 
+// git commit -m""
+
 console.log("Hello World!");
 alert("hi...")
