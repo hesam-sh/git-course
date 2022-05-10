@@ -16,5 +16,7 @@
 
 // git add .
 
+// working directory, stage, repository
+
 console.log("Hello World!");
 alert("hi...")

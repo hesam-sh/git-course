@@ -1,0 +1,1 @@
+const arrowFunction = () => "say my name..."
