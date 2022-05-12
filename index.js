@@ -18,5 +18,7 @@
 
 // working directory, stage, repository
 
+// git diff => difference between the commited files and working directory
+
 console.log("Hello World!");
 alert("hi...")
