@@ -35,5 +35,11 @@
 
 // ssd-add ...
 
+// git branch
+
+// git branch feature/... : for add branch
+
+// git checkout feature/... : for switch to selected branch
+
 console.log("Hello World!");
 alert("hi...");
